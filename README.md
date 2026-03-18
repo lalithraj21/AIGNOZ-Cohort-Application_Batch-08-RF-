@@ -39,10 +39,10 @@ It consists of:
 ### 🔹 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/lalithraj21/AIGNOZ-Cohort-Application_Batch-08-RF-.git
 cd your-repo-name
 ```
-
+ 
 ---
 
 ### 🔹 2️⃣ Setup Frontend
@@ -183,7 +183,7 @@ You need to run **3 services simultaneously**:
 
 | Service    | Command          | Port |
 | ---------- | ---------------- | ---- |
-| Frontend   | npm run dev      | 3000 |
+| Frontend   | npm run dev      | 5173 |
 | Backend    | npm run dev      | 5000 |
 | ML Service | uvicorn main:app | 8000 |
 
